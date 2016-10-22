@@ -1,3 +1,4 @@
+![IoTConference_logo.JPG](https://bitbucket.org/repo/xbqy9a/images/107497857-IoTConference_logo.JPG)
 # Node-RED Bluemix IoT 2016 Base Installation for the Tutorial on: #
 
 ## IoT Platforms: Rapid Development of IoT Applications ##
