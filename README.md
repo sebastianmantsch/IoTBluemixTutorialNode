@@ -22,7 +22,7 @@ It will automatically create an instance of the Cloudant DB service, call it
 Node-RED instance will store its data. If you deploy multiple instances of
 Node-RED from this repository, they will share the one Cloudant instance.
 
-Additionally the Watson Internet of Things Platform is added to your application.
+Additionally the Watson Internet of Things Platform is added to your application as service `iot-iotf-service`.
 There you will be able to create a Device Type and add a device which will be connected to the platform.
 
 Node-RED includes a simple default flow which we customize to work with the configured IoT Device.
