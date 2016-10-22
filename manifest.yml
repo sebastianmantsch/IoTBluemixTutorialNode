@@ -2,9 +2,13 @@ applications:
 - memory: 512M
   services:
   - iot-node-red-cloudantNoSQLDB
+  - iot-iotf-service
   env:
-    NODE_RED_STORAGE_NAME: iot-node-red-cloudantNoSQLDB
+    NODE_RED_STORAGE_NAME: sample-node-red-cloudantNoSQLDB
 declared-services:
-  iot-node-red-cloudantNoSQLDB:
+  sample-node-red-cloudantNoSQLDB:
     label: cloudantNoSQLDB
     plan:  Shared
+  iot-iotf-service:
+    label: iotf-service
+    plan: iotf-service-free
