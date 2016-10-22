@@ -12,7 +12,7 @@ Bluemix with only a couple clicks. Try it out for yourself right now by clicking
 [Deploy to Bluemix](https://bluemix.net/deploy?repository=https://bitbucket.org/bmcrprojectteam/node-red-bluemix-iot-2016.git)
 
 
-[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://bitbucket.org/bmcrprojectteam/node-red-bluemix-iot-2016.git)
+[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](http://bit.ly/2eueAwh)
 
 ### How does this work?
 
