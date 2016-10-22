@@ -127,8 +127,10 @@ a.button:hover {
 }
 .title img {
     margin: auto;
-    max-width: 769px;
-    width: 100%;
+	height: auto; 
+    width: auto; 
+    max-width: 300px; 
+    max-height: 300px;
 }
 
 .nodes .content {
