@@ -4,9 +4,9 @@ applications:
   - iot-node-red-cloudantNoSQLDB
   - iot-iotf-service
   env:
-    NODE_RED_STORAGE_NAME: sample-node-red-cloudantNoSQLDB
+    NODE_RED_STORAGE_NAME: iot-node-red-cloudantNoSQLDB
 declared-services:
-  sample-node-red-cloudantNoSQLDB:
+  iot-node-red-cloudantNoSQLDB:
     label: cloudantNoSQLDB
     plan:  Shared
   iot-iotf-service:
