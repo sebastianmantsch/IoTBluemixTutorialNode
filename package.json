@@ -1,5 +1,5 @@
 {
-    "name"         : "node-red-bluemix-starter",
+    "name"         : "node-red-bluemix-iot-2016",
     "version"      : "0.5.0",
     "dependencies": {
         "when": "~3.x",
