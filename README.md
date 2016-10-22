@@ -1,4 +1,6 @@
-Node-RED Bluemix Starter Application
+# Node-RED Bluemix IoT 2016 Base Installation for the Tutorial on: #
+
+## IoT Platforms: Rapid Development of IoT Applications ##
 ====================================
 
 ### Node-RED in BlueMix
