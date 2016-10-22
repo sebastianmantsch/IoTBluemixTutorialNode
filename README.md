@@ -3,14 +3,10 @@
 ## IoT Platforms: Rapid Development of IoT Applications ##
 ====================================
 
-### Node-RED in BlueMix
+### Node-RED in BlueMix prepared for the tutorial at IoT 2016
 
 This repository is an example Node-RED application that can be deployed into
-Bluemix with only a couple clicks. Try it out for yourself right now by clicking:
-
-
-[Deploy to Bluemix](https://bluemix.net/deploy?repository=https://bitbucket.org/bmcrprojectteam/node-red-bluemix-iot-2016.git)
-
+Bluemix with only a couple clicks. Just click on the Button below to start the deployment to your IBM Bluemix account.
 
 [![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](http://bit.ly/2eueAwh)
 
