@@ -26,3 +26,6 @@ Additionally the Watson Internet of Things Platform is added to your application
 There you will be able to create a Device Type and add a device which will be connected to the platform.
 
 Node-RED includes a simple default flow which we customize to work with the configured IoT Device.
+
+Tutorial based on:
+https://github.com/jeancarl/node-red-labs/tree/master/lab-mobile-accelerometer-sensor
