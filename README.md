@@ -18,7 +18,7 @@ for your application at which point the platform takes over, grabs the code from
 this repository and gets it deployed.
 
 It will automatically create an instance of the Cloudant DB service, call it
-`iot-node-red-cloudantNoSQLDB` and bind it to you app. This is where your
+`iot-cloudant-cloudantNoSQLDB` and bind it to you app. This is where your
 Node-RED instance will store its data. If you deploy multiple instances of
 Node-RED from this repository, they will share the one Cloudant instance.
 
@@ -26,3 +26,6 @@ Additionally the Watson Internet of Things Platform is added to your application
 There you will be able to create a Device Type and add a device which will be connected to the platform.
 
 Node-RED includes a simple default flow which we customize to work with the configured IoT Device.
+
+Tutorial based on:
+https://github.com/jeancarl/node-red-labs/tree/master/lab-mobile-accelerometer-sensor
