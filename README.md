@@ -9,11 +9,11 @@
 This repository is an example Node-RED application that can be deployed into
 Bluemix with only a couple clicks. Just click on the Button below to start the deployment to your IBM Bluemix account.
 
-[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](http://bit.ly/2eueAwh)
+[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?%20repository=https://github.com/sebastianmantsch/IoTBluemixTutorialNode.git)
 
 ### How does this work?
 
-When you click the button, you are taken to Bluemix where you get a pick a name
+When you click the button, you are taken to Bluemix where you get to pick a name
 for your application at which point the platform takes over, grabs the code from
 this repository and gets it deployed.
 
