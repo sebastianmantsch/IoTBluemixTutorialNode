@@ -8,7 +8,7 @@ applications:
 declared-services:
   iot-cloudant-cloudantNoSQLDB:
     label: cloudantNoSQLDB
-    plan: Shared
+    plan: Lite
   iot-iotf-service:
     label: iotf-service
     plan: iotf-service-free
