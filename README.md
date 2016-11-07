@@ -29,4 +29,5 @@ Node-RED includes a simple default flow which we customized to work with the con
 
 Tutorial based on:
 [1](https://github.com/jeancarl/node-red-labs/tree/master/lab-mobile-accelerometer-sensor)
+
 [2](https://github.com/ibmets/node-red-bluemix-starter)
