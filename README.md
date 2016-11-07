@@ -26,6 +26,11 @@ There you will be able to create a Device Type and add a device which will be co
 
 Node-RED includes a simple default flow which we customized to work with the configured IoT Device.
 
+The corresponding part for your mobile device is located in following repository:
+
+[HTML5 Phone Repository](https://github.com/sebastianmantsch/IoTBluemixTutorialPhone)
+
+
 Tutorial based on:
 
 [Link 1](https://github.com/jeancarl/node-red-labs/tree/master/lab-mobile-accelerometer-sensor)
