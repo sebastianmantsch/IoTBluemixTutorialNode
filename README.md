@@ -2,8 +2,7 @@
 # Node-RED Bluemix IoT 2016 Base Installation for the Tutorial on: #
 
 ## IoT Platforms: Rapid Development of IoT Applications ##
-====================================
-
+------------------------------------------------------------
 ### Node-RED in BlueMix prepared for the tutorial at IoT 2016
 
 This repository is an example Node-RED application that can be deployed into
@@ -28,6 +27,7 @@ There you will be able to create a Device Type and add a device which will be co
 Node-RED includes a simple default flow which we customized to work with the configured IoT Device.
 
 Tutorial based on:
+
 [1](https://github.com/jeancarl/node-red-labs/tree/master/lab-mobile-accelerometer-sensor)
 
 [2](https://github.com/ibmets/node-red-bluemix-starter)
